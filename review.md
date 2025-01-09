@@ -2,7 +2,8 @@
 **Reviewer Group ID :** 08\
 **Reviewer:** 1905038 - Ajoy Dey \
 **Team Members:** [Farhan Tahmidul Karim](https://github.com/farhanitrate35), [Sarder MD. Saffat Zabin](https://github.com/SaffatZabin-17), and [Ajoy Dey](https://github.com/ajoydey00001)\
-**Checkout** this blog on - [**BLOG LINK**](https://github.com/Rifatzen/ml471_assignment/blob/main/Blog.md)
+**Checkout** this blog on - [**BLOG LINK**](https://github.com/Rifatzen/ml471_assignment/blob/main/Blog.md) \
+**Date :** 09/01/25
 ### **Introduction**
 The blog shows an in-depth exploration of the paper *"[Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation,](https://openreview.net/forum?id=zGN0YWy2he)"* where introducing **DisCo** as a groundbreaking framework for complex scene image generation. By emphasizing the disentanglement of spatial layouts and interactive semantics, the blog effectively positions **DisCo** as a transformative advancement in generative AI. With minor improvements, this blog can become an exemplary resource for understanding DisCo and its contributions to generative AI.
 
