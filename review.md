@@ -12,7 +12,7 @@ The blog shows an in-depth exploration of the paper *"[Scene Graph Disentangleme
 1. **Real-World Relevance**  
    In this blog , it shines in its discussion of DisCo's applications in creative industries, virtual reality, and synthetic data generation. These examples make the technology relatable and demonstrate its potential for practical use.
    
-2. **Comprehensive Explanation of Key Contributions**  
+2. **Key Contributions**  
    The blog provides an excellent breakdown of DisCo's innovative components:
    - **Multi-Layered Sampler (MLS)**: The ability to edit and manipulate scene graphs dynamically is presented as a unique and highly practical feature.  
  
@@ -27,7 +27,7 @@ The blog shows an in-depth exploration of the paper *"[Scene Graph Disentangleme
 
 ---
 
-### **Areas for Improvement**
+### **Areas for Improvement in this blog**
 
 1. **Lack of Dataset and Performance Details**  
    Though the blog mentions DisCo’s superior performance, it does not provide specific results or comparisons.The claims can be more convincing Including numerical metrics like **Inception Score (IS)** and **Fréchet Inception Distance (FID)**, along with a table comparing DisCo to other methods (e.g., SG2Im, SceneGenie, R3CD).
@@ -44,5 +44,5 @@ The blog shows an in-depth exploration of the paper *"[Scene Graph Disentangleme
 ---
 
 ### **Conclusion**
-`DisCo` enhances complex image generation by leveraging scene graphs with a Semantics-Layout VAE for diverse layout and semantic derivation and a Compositional Masked Attention diffusion model for fine-grained control. A Multi-Layered Sampler enables intuitive, consistent image editing, outperforming prior approaches in rationality and controllability. `The blog` is a well-crafted and insightful piece that effectively communicates the transformative potential of DisCo. By incorporating performance metrics, real visuals, a discussion of limitations, and more insights from user studies, it could elevate from excellent to outstanding. `The blog` succeeds in striking a balance between technical depth and accessibility while offering a forward-thinking vision for the future of generative AI. 
+*DisCo* enhances complex image generation by leveraging scene graphs with a Semantics-Layout VAE for diverse layout and semantic derivation and a Compositional Masked Attention diffusion model for fine-grained control. *The blog* is a well-crafted and insightful piece that effectively communicates the transformative potential of DisCo. It could elevate from excellent to outstanding by incorporating performance metrics, real visuals, a discussion of limitations, and more insights from user studies. Last of all, *The blog* succeeds in striking a balance between technical depth and accessibility while offering a forward-thinking vision for the future of generative AI. 
 
