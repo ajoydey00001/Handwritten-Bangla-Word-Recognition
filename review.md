@@ -3,8 +3,8 @@
 **Reviewer:** 1905038 - Ajoy Dey \
 **Team Members:** [Farhan Tahmidul Karim](https://github.com/farhanitrate35), [Sarder MD. Saffat Zabin](https://github.com/SaffatZabin-17), and [Ajoy Dey](https://github.com/ajoydey00001)\
 **Checkout** this blog on - [**BLOG LINK**](https://github.com/Rifatzen/ml471_assignment/blob/main/Blog.md)
-#### **Introduction**
-The blog shows an in-depth exploration of the paper *"[Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation,](https://openreview.net/forum?id=zGN0YWy2he)"* where introducing DisCo as a groundbreaking framework for complex scene image generation. By emphasizing the disentanglement of spatial layouts and interactive semantics, the blog effectively positions DisCo as a transformative advancement in generative AI. With minor improvements, this blog can become an exemplary resource for understanding DisCo and its contributions to generative AI.
+### **Introduction**
+The blog shows an in-depth exploration of the paper *"[Scene Graph Disentanglement and Composition for Generalizable Complex Image Generation,](https://openreview.net/forum?id=zGN0YWy2he)"* where introducing **DisCo** as a groundbreaking framework for complex scene image generation. By emphasizing the disentanglement of spatial layouts and interactive semantics, the blog effectively positions **DisCo** as a transformative advancement in generative AI. With minor improvements, this blog can become an exemplary resource for understanding DisCo and its contributions to generative AI.
 
 ---
 
@@ -44,5 +44,5 @@ The blog shows an in-depth exploration of the paper *"[Scene Graph Disentangleme
 ---
 
 ### **Conclusion**
-*DisCo* enhances complex image generation by leveraging scene graphs with a Semantics-Layout VAE for diverse layout and semantic derivation and a Compositional Masked Attention diffusion model for fine-grained control. *The blog* is a well-crafted and insightful piece that effectively communicates the transformative potential of DisCo. It could elevate from excellent to outstanding by incorporating performance metrics, real visuals, a discussion of limitations, and more insights from user studies. Last of all, *The blog* succeeds in striking a balance between technical depth and accessibility while offering a forward-thinking vision for the future of generative AI. 
+**DisCo** enhances complex image generation by leveraging scene graphs with a Semantics-Layout VAE for diverse layout and semantic derivation and a Compositional Masked Attention diffusion model for fine-grained control. **The blog** is a well-crafted and insightful piece that effectively communicates the transformative potential of DisCo. It could elevate from excellent to outstanding by incorporating performance metrics, real visuals, a discussion of limitations, and more insights from user studies. Last of all, **The blog** succeeds in striking a balance between technical depth and accessibility while offering a forward-thinking vision for the future of generative AI. 
 
